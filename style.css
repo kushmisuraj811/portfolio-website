@@ -456,4 +456,6 @@
       gap:14px;
     }
 
-    @media (max-width:760px){.grid-2{grid-template-columns:1fr}}
+    @media (max-width:760px)1fr;
+  }
+}{.grid-2{grid-template-columns:1fr}}
